@@ -72,7 +72,7 @@
             android:id="@+id/fabTanyaAi"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:contentDescription="@string/tanya_siagaai"
+            android:contentDescription="@string/tanya_jagratara"
             android:src="@drawable/chat_round_unread_svgrepo_com"
             app:layout_anchor="@id/bottomAppBar" />
 

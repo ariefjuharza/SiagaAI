@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SiagaAI</string>
+    <string name="app_name">Jagratara</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
@@ -34,7 +34,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="home">Home</string>
     <string name="edukasi">Edukasi</string>
-    <string name="tanya_ai">Tanya AI</string>
+    <string name="tanya_ai">Tanya Jagratara</string>
     <string name="data_gempa_tidak_tersedia_saat_ini">Data gempa tidak tersedia saat ini.</string>
     <string name="tidak_ada_peringatan_dini_cuaca_dari_bmkg">Tidak ada peringatan dini cuaca dari BMKG.</string>
     <string name="data_peringatan_dini_cuaca_tidak_tersedia">Data peringatan dini cuaca tidak tersedia.</string>
@@ -62,10 +62,10 @@
     <string name="informasi_kesiapsiagaan_terkait_potensi_hujan">Informasi kesiapsiagaan terkait potensi hujan%1$s</string>
     <string name="di_wilayah">" di wilayah %1$s."</string>
     <string name="memuat_informasi_kondisi_terkini">Memuat informasi kondisi terkini…</string>
-    <string name="tanya_siagaai">Tanya SiagaAI</string>
+    <string name="tanya_jagratara">Tanya Jagratara</string>
     <string name="hint_tanya_ai">Tanya tentang kesiapsiagaan menghadapi bencana</string>
     <string name="kirim">Kirim</string>
-    <string name="disclaimer_chat">️ℹ️ SiagaAI bersifat informatif dan bukan peringatan resmi. Untuk info terkini, ikuti BMKG dan instansi berwenang.</string>
+    <string name="disclaimer_chat">️ℹ️ Jagratara bersifat informatif dan bukan peringatan resmi. Untuk info terkini, ikuti BMKG dan instansi berwenang.</string>
     <string name="information_home">ℹ️ Checklist ini bersifat panduan umum. Sesuaikan dengan kebutuhan dan kondisi masing-masing.</string>
     <string name="readiness_message_30">Mari mulai menyiapkan hal-hal dasar bersama</string>
     <string name="readiness_message_70">Anda sudah memulai langkah kesiapsiagaan</string>

@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SiagaAI"
+rootProject.name = "Jagratara"
 include(":app")

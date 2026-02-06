@@ -1,6 +1,0 @@
-package studio.bonodigital.siagaai.data.model
-
-data class EdukasiItem(
-    val title: String, val description: String
-)
-

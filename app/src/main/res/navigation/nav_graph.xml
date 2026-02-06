@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/HomeFragment"
-        android:name="studio.bonodigital.siagaai.ui.home.HomeFragment"
+        android:name="studio.bonodigital.jagratara.ui.home.HomeFragment"
         android:label="@string/app_name"
         tools:layout="@layout/fragment_home">
         <action
@@ -19,7 +19,7 @@
     </fragment>
     <fragment
         android:id="@+id/EdukasiFragment"
-        android:name="studio.bonodigital.siagaai.ui.edukasi.EdukasiFragment"
+        android:name="studio.bonodigital.jagratara.ui.edukasi.EdukasiFragment"
         android:label="@string/edukasi"
         tools:layout="@layout/fragment_edukasi">
         <action
@@ -31,7 +31,7 @@
     </fragment>
     <fragment
         android:id="@+id/TanyaAiFragment"
-        android:name="studio.bonodigital.siagaai.ui.tanyaai.TanyaAiFragment"
+        android:name="studio.bonodigital.jagratara.ui.tanyaai.TanyaAiFragment"
         android:label="@string/tanya_ai"
         tools:layout="@layout/fragment_tanya_ai"/>
 </navigation>

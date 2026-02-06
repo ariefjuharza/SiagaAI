@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "studio.bonodigital.siagaai"
+    namespace = "studio.bonodigital.jagratara"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "studio.bonodigital.siagaai"
+        applicationId = "studio.bonodigital.jagratara"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

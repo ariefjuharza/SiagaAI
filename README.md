@@ -1,28 +1,39 @@
-# SiagaAI  
-**Aplikasi Edukasi & Kesiapsiagaan Bencana Berbasis AI dan Data BMKG**
+# Jagratara
+**Edukasi Kesiapsiagaan Bencana Berbasis Data dan AI**
 
-SiagaAI adalah aplikasi Android prototipe yang dirancang untuk membantu masyarakat Indonesia memahami kondisi kebencanaan dan meningkatkan kesiapsiagaan melalui edukasi kontekstual, data resmi BMKG, serta asisten AI yang bersifat informatif.
+Jagratara adalah aplikasi Android prototipe yang dirancang untuk membantu masyarakat memahami kondisi kebencanaan dan meningkatkan kesiapsiagaan melalui edukasi kontekstual, data resmi BMKG, serta asisten AI yang bersifat informatif.
+
+---
+
+## 🕉️ Makna Nama
+**Jagratara** berasal dari bahasa Sanskerta, dari kata *jagrat* (terjaga, sadar, waspada) dan akhiran *-tara* (tingkatan yang lebih tinggi).
+
+Makna Jagratara dapat dimaknai sebagai:
+> **kesadaran dan kesiapsiagaan yang matang**,  
+> bukan kepanikan, melainkan pemahaman yang jernih dan tenang.
+
+Nama ini mencerminkan tujuan aplikasi: membantu pengguna **memahami risiko dan bersiap secara sadar**, bukan sekadar menerima peringatan.
 
 ---
 
 ## 🎯 Latar Belakang Masalah
 Indonesia merupakan wilayah rawan bencana seperti gempa bumi dan cuaca ekstrem.  
-Namun, masih banyak masyarakat yang:
-- Kurang memahami makna informasi kebencanaan
-- Tidak tahu langkah dasar yang perlu dilakukan
-- Bergantung pada informasi yang tidak terverifikasi
+Meskipun data kebencanaan tersedia secara terbuka, masih banyak masyarakat yang:
+- Kesulitan memahami arti informasi kebencanaan
+- Tidak mengetahui langkah dasar kesiapsiagaan
+- Terpapar informasi yang tidak terverifikasi
 
-SiagaAI hadir sebagai **media edukasi dan pemahaman**, bukan sebagai sistem peringatan dini.
+Jagratara hadir sebagai **media edukasi dan pemahaman**, bukan sebagai sistem peringatan dini.
 
 ---
 
 ## 💡 Solusi yang Ditawarkan
-SiagaAI menggabungkan:
+Jagratara menggabungkan:
 - **Data resmi BMKG**
-- **Edukasi kesiapsiagaan berbasis konteks**
-- **Asisten AI (SiagaAI) untuk tanya jawab kebencanaan**
+- **Konten edukasi kesiapsiagaan berbasis kondisi**
+- **Asisten AI untuk tanya jawab kebencanaan**
 
-Tujuannya adalah membantu pengguna:
+Pendekatan ini membantu pengguna:
 - Memahami situasi kebencanaan
 - Mengetahui sikap yang tepat
 - Meningkatkan kesiapan dasar secara mandiri
@@ -34,24 +45,22 @@ Tujuannya adalah membantu pengguna:
 ### 🏠 Home
 - Informasi **Gempa Terakhir** dari BMKG
 - Informasi **Peringatan Dini Cuaca (CAP BMKG)**
-- Checklist kesiapsiagaan dasar yang dapat disimpan secara lokal
+- Checklist kesiapsiagaan dasar yang tersimpan secara lokal
 
 ### 📘 Edukasi
-- Edukasi per kondisi:
-  - Umum
-  - Gempa Bumi
-  - Hujan
-  - Panas
-  - Cuaca Ekstrem
-- Konten edukasi singkat & mudah dipahami
-- Video edukasi (YouTube) berbasis skenario kesiapsiagaan
+- Edukasi per topik:
+    - Umum
+    - Gempa Bumi
+    - Hujan
+    - Panas
+    - Cuaca Ekstrem
+- Konten singkat, jelas, dan mudah dipahami
+- Video edukasi berbasis skenario kesiapsiagaan (YouTube)
 
-### 🤖 Tanya SiagaAI
+### 🤖 Tanya Jagratara
 - Asisten AI berbasis teks
 - Dapat diakses dari mana saja melalui Floating Action Button (FAB)
-- Mode:
-  - Eksploratif (umum)
-  - Kontekstual (berdasarkan kondisi dari Home/Edukasi)
+- Mode eksploratif dan kontekstual
 - Riwayat chat tersimpan secara lokal
 - Opsi menghapus riwayat chat
 
@@ -79,17 +88,17 @@ Tujuannya adalah membantu pengguna:
 ---
 
 ## ⚠️ Catatan Penting
-- Aplikasi ini **bersifat informatif**
-- **Bukan sistem peringatan dini**
-- Selalu rujuk informasi resmi dari BMKG dan instansi berwenang
+Jagratara bersifat **informatif dan edukatif**.  
+Aplikasi ini **bukan sistem peringatan dini** dan tidak menggantikan peran instansi resmi.
 
 ---
 
 ## 🔮 Rencana Pengembangan
-- Pada tahap produksi nanti, aplikasi akan dikembangkan dengan fitur login untuk mendukung pengelolaan data pengguna misalnya personalisasi wilayah pengguna.
-- Mode offline edukasi
+- Personalisasi wilayah pengguna
+- Mode offline untuk konten edukasi
 - Visualisasi data kebencanaan
-- Integrasi konten video generatif AI yang lebih kaya
+- Pengayaan konten video edukasi berbasis AI
+- Pada tahap pengembangan lanjutan dan memasuki tahap produksi, akan digunakan fitur login berbasis kredensial untuk mendukung personalisasi dan pengelolaan preferensi pengguna
 
 ---
 
@@ -102,4 +111,5 @@ Tujuannya adalah membantu pengguna:
 ## 📎 Link Pendukung
 - Repository GitHub: *https://github.com/ariefjuharza/SiagaAI*
 - Demo Video: *soon*
+- Linkedin : *https://www.linkedin.com/in/ariefjuharza/*
 

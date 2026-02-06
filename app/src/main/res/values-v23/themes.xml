@@ -1,6 +1,6 @@
 <resources>
 
-    <style name="Theme.SiagaAI" parent="Base.Theme.SiagaAI">
+    <style name="Theme.Jagratara" parent="Base.Theme.Jagratara">
         <!-- Transparent system bars for edge-to-edge. -->
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
