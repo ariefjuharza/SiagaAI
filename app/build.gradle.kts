@@ -63,4 +63,5 @@ dependencies {
     implementation(libs.converter.gson)
     implementation(libs.okhttp)
     implementation(libs.androidyoutubeplayer)
+    implementation(libs.androidx.core.splashscreen)
 }

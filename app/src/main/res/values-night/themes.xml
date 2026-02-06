@@ -1,4 +1,12 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/background_dark</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.SiagaAI</item>
+    </style>
+
     <!-- Base application theme. -->
     <style name="Base.Theme.SiagaAI" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
