@@ -100,6 +100,6 @@ Tujuannya adalah membantu pengguna:
 ---
 
 ## 📎 Link Pendukung
-- Repository GitHub: *(isi link repo kamu)*
-- Demo Video (jika ada): *(opsional)*
+- Repository GitHub: *https://github.com/ariefjuharza/SiagaAI*
+- Demo Video: *soon*
 
