@@ -86,7 +86,7 @@ Tujuannya adalah membantu pengguna:
 ---
 
 ## 🔮 Rencana Pengembangan
-- Personalisasi wilayah pengguna
+- Pada tahap produksi nanti, aplikasi akan dikembangkan dengan fitur login untuk mendukung pengelolaan data pengguna misalnya personalisasi wilayah pengguna.
 - Mode offline edukasi
 - Visualisasi data kebencanaan
 - Integrasi konten video generatif AI yang lebih kaya
