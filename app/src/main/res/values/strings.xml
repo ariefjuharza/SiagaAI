@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">SiagaAI</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris volutpat, dolor id interdum ullamcorper, risus dolor
+        egestas lectus, sit amet mattis purus dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad litora
+        torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend diam, vel rutrum tellus vulputate quis. Aliquam eget libero
+        aliquet, imperdiet nisl a, ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus egestas, est a condimentum egestas, turpis nisl
+        iaculis ipsum, in dictum tellus dolor sed neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada fames ac
+        ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae, molestie nibh. Phasellus at commodo eros, non aliquet metus.
+        Sed maximus nisl nec dolor bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit amet auctor at, mollis non turpis. Nullam pretium
+        libero vestibulum, finibus orci vel, molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer interdum
+        nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at lacinia sit amet, tristique id quam. Cras eu consequat dui.
+        Suspendisse sodales nunc ligula, in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh. Morbi laoreet, tortor sed facilisis varius, nibh
+        orci rhoncus nulla, id elementum leo dui non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In eros
+        nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc, quis imperdiet eros placerat ac. Duis finibus orci et est
+        auctor tincidunt. Sed non viverra ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a placerat diam.
+        Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In volutpat arcu ut
+        felis sagittis, in finibus massa gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper, libero justo
+        consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare
+        nulla. Donec rhoncus libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus vestibulum. Fusce dictum
+        libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="edukasi">Edukasi</string>
+    <string name="tanya_ai">Tanya AI</string>
+    <string name="data_gempa_tidak_tersedia_saat_ini">Data gempa tidak tersedia saat ini.</string>
+    <string name="tidak_ada_peringatan_dini_cuaca_dari_bmkg">Tidak ada peringatan dini cuaca dari BMKG.</string>
+    <string name="data_peringatan_dini_cuaca_tidak_tersedia">Data peringatan dini cuaca tidak tersedia.</string>
+    <string name="peringatan_dini_cuaca_dari_bmkg">Peringatan dini cuaca dari BMKG.</string>
+    <string name="gempa_terakhir">🌏 Gempa Terakhir</string>
+    <string name="memuat_data_gempa">Memuat data gempa…</string>
+    <string name="sumber_bmkg">Sumber: BMKG</string>
+    <string name="memuat_peringatan_dini_cuaca">Memuat peringatan dini cuaca…</string>
+    <string name="peringatan_dini_cuaca">⚠️ Peringatan Dini Cuaca</string>
+    <string name="disclaimer_bmkg">ℹ️ Informasi kebencanaan bersumber dari BMKG dan bersifat informatif. Aplikasi ini tidak menyediakan peringatan dini.</string>
+    <string name="kesiapan_anda">Kesiapan Anda</string>
+    <string name="magnitudo">Magnitudo %1$s</string>
+    <string name="wilayah_gempa">" • %1$s"</string>
+    <string name="waktu_gempa">" • %1$s • %2$s"</string>
+    <string name="edukasi_kesiapsiagaan_bencana">🟢 Edukasi Kesiapsiagaan Bencana</string>
+    <string name="informasi_dasar_untuk_membantu_anda_lebih_siap_menghadapi_berbagai_kondisi_kebencanaan">Informasi dasar untuk membantu Anda lebih siap menghadapi berbagai kondisi kebencanaan.</string>
+    <string name="edukasi_kesiapsiagaan_cuaca_ekstrem">🌪️ Edukasi Kesiapsiagaan Cuaca Ekstrem</string>
+    <string name="informasi_umum_untuk_memahami_dan_bersiap_menghadapi_kondisi_cuaca_ekstrem">Informasi umum untuk memahami dan bersiap menghadapi kondisi cuaca ekstrem.</string>
+    <string name="edukasi_kesiapsiagaan_cuaca_panas">🔥 Edukasi Kesiapsiagaan Cuaca Panas</string>
+    <string name="informasi_untuk_membantu_menjaga_kesehatan_saat_suhu_udara_lebih_tinggi_dari_biasanya">Informasi untuk membantu menjaga kesehatan saat suhu udara lebih tinggi dari biasanya.</string>
+    <string name="edukasi_kesiapsiagaan_gempa_bumi">🌏 Edukasi Kesiapsiagaan Gempa Bumi</string>
+    <string name="informasi_umum_untuk_membantu_memahami_dan_menghadapi_kejadian_gempa_bumi">Informasi umum untuk membantu memahami dan menghadapi kejadian gempa bumi.</string>
+    <string name="edukasi_kesiapsiagaan_cuaca_hujan">🌧️ Edukasi Kesiapsiagaan Cuaca Hujan</string>
+    <string name="informasi_kesiapsiagaan_untuk_menghadapi_kondisi_hujan_yang_berpotensi_berdampak">Informasi kesiapsiagaan untuk menghadapi kondisi hujan yang berpotensi berdampak.</string>
+    <string name="informasi_kesiapsiagaan_terkait_potensi_hujan">Informasi kesiapsiagaan terkait potensi hujan%1$s</string>
+    <string name="di_wilayah">" di wilayah %1$s."</string>
+    <string name="memuat_informasi_kondisi_terkini">Memuat informasi kondisi terkini…</string>
+    <string name="tanya_siagaai">Tanya SiagaAI</string>
+    <string name="hint_tanya_ai">Tanya tentang kesiapsiagaan menghadapi bencana</string>
+    <string name="kirim">Kirim</string>
+    <string name="disclaimer_chat">️ℹ️ SiagaAI bersifat informatif dan bukan peringatan resmi. Untuk info terkini, ikuti BMKG dan instansi berwenang.</string>
+    <string name="information_home">ℹ️ Checklist ini bersifat panduan umum. Sesuaikan dengan kebutuhan dan kondisi masing-masing.</string>
+    <string name="readiness_message_30">Mari mulai menyiapkan hal-hal dasar bersama</string>
+    <string name="readiness_message_70">Anda sudah memulai langkah kesiapsiagaan</string>
+    <string name="readiness_message_99">Kesiapan Anda sudah baik, tinggal sedikit lagi</string>
+    <string name="readiness_message_100">Anda sudah sangat siap menghadapi kondisi darurat</string>
+    <string name="checklist_section_1">🧰 Perlengkapan Darurat Dasar</string>
+    <string name="checklist_section_2">👨‍👩‍👧 Kesiapan Keluarga</string>
+    <string name="checklist_section_3">📄 Dokumen Penting</string>
+    <string name="checklist_section_1_1_title">Air minum</string>
+    <string name="checklist_section_1_2_title">Senter</string>
+    <string name="checklist_section_1_3_title">P3K</string>
+    <string name="checklist_section_2_1_title">Titik kumpul keluarga</string>
+    <string name="checklist_section_2_2_title">Kontak darurat</string>
+    <string name="checklist_section_3_1_title">Fotokopi KTP</string>
+    <string name="checklist_section_3_2_title">Dokumen asuransi</string>
+    <string name="checklist_section_1_1_desc">Persediaan air bersih untuk kebutuhan awal darurat</string>
+    <string name="checklist_section_1_2_desc">Untuk penerangan saat listrik padam</string>
+    <string name="checklist_section_1_3_desc">Perlengkapan pertolongan pertama untuk luka ringan</string>
+    <string name="checklist_section_2_1_desc">Tempat berkumpul jika harus terpisah saat darurat</string>
+    <string name="checklist_section_2_2_desc">Nomor penting yang mudah dihubungi saat dibutuhkan</string>
+    <string name="checklist_section_3_1_desc">Salinan identitas untuk keperluan administrasi</string>
+    <string name="checklist_section_3_2_desc">Jika diperlukan untuk proses lanjutan</string>
+    <string name="hapus_percakapan">Hapus percakapan</string>
+    <string name="intro_not_contextual">Saya siap membantu menjelaskan berbagai topik seputar kesiapsiagaan bencana. Silakan pilih topik atau ajukan pertanyaan.</string>
+    <string name="intro_gempa">Saya dapat membantu menjelaskan informasi dan kesiapsiagaan terkait gempa bumi.</string>
+    <string name="intro_hujan">Saya dapat membantu menjelaskan informasi dan kesiapsiagaan terkait cuaca hujan.</string>
+    <string name="intro_panas">Saya dapat membantu menjelaskan informasi dan kesiapsiagaan terkait cuaca panas.</string>
+    <string name="intro_ekstrem">Saya dapat membantu menjelaskan informasi dan kesiapsiagaan terkait cuaca ekstrem.</string>
+    <string name="intro_other">Saya siap membantu menjawab pertanyaan Anda.</string>
+    <string name="error_chat_message">AI tidak tersedia. Silakan lihat tab Edukasi.</string>
+    <string name="hapus_percakapan_dialog_title">Hapus percakapan?</string>
+    <string name="hapus_percakapan_message">Semua riwayat TanyaAI akan dihapus dan tidak dapat dikembalikan.</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="context_intro_gempa">Berikut adalah penjelasan informatif terkait kesiapsiagaan gempa bumi.</string>
+    <string name="context_intro_hujan">Berikut adalah penjelasan informatif terkait kesiapsiagaan menghadapi cuaca hujan.</string>
+    <string name="context_intro_panas">Berikut adalah penjelasan informatif terkait kesiapsiagaan menghadapi cuaca panas.</string>
+    <string name="context_intro_ekstrem">Berikut adalah penjelasan informatif terkait kesiapsiagaan menghadapi cuaca ekstrem.</string>
+    <string name="context_intro_other">Berikut adalah penjelasan informatif terkait kesiapsiagaan.</string>
+    <string name="not_context_intro">Berikut adalah penjelasan edukatif terkait kesiapsiagaan bencana.</string>
+    <string name="edukasi_umum_title_1">Apa itu kesiapsiagaan?</string>
+    <string name="edukasi_umum_title_2">Mengapa penting?</string>
+    <string name="edukasi_umum_title_3">Apa yang bisa dilakukan?</string>
+    <string name="edukasi_umum_desc_1">Kesiapsiagaan adalah langkah awal untuk mengurangi risiko dan dampak bencana.</string>
+    <string name="edukasi_umum_desc_2">Persiapan membantu Anda dan keluarga merespons dengan lebih tenang dan tepat.</string>
+    <string name="edukasi_umum_desc_3">Kenali risiko di sekitar dan siapkan rencana darurat sejak dini.</string>
+    <string name="edukasi_hujan_title_1">Apa yang perlu dipahami?</string>
+    <string name="edukasi_hujan_title_2">Hal yang perlu diperhatikan</string>
+    <string name="edukasi_hujan_title_3">Sikap yang disarankan</string>
+    <string name="edukasi_hujan_desc_1">Hujan dengan intensitas tinggi dapat meningkatkan risiko genangan di beberapa wilayah.</string>
+    <string name="edukasi_hujan_desc_2">Kondisi hujan tidak selalu berdampak sama di setiap tempat.</string>
+    <string name="edukasi_hujan_desc_3">Tetap pantau informasi resmi dan sesuaikan aktivitas jika diperlukan.</string>
+    <string name="edukasi_gempa_title_1">Apa yang terjadi saat gempa?</string>
+    <string name="edukasi_gempa_title_2">Setelah gempa</string>
+    <string name="edukasi_gempa_title_3">Mengapa kesiapsiagaan penting?</string>
+    <string name="edukasi_gempa_desc_1">Gempa bumi adalah getaran tanah akibat aktivitas di dalam bumi.</string>
+    <string name="edukasi_gempa_desc_2">Gempa susulan masih mungkin terjadi dalam beberapa waktu.</string>
+    <string name="edukasi_gempa_desc_3">Persiapan membantu mengurangi risiko cedera dan kepanikan.</string>
+    <string name="edukasi_panas_title_1">Apa yang perlu diketahui?</string>
+    <string name="edukasi_panas_title_2">Dampak yang mungkin dirasakan</string>
+    <string name="edukasi_panas_title_3">Langkah sederhana</string>
+    <string name="edukasi_panas_desc_1">Suhu udara tinggi dapat membuat tubuh lebih cepat kehilangan cairan.</string>
+    <string name="edukasi_panas_desc_2">Kondisi panas dapat memengaruhi kenyamanan dan kesehatan.</string>
+    <string name="edukasi_panas_desc_3">Cukupi kebutuhan cairan dan perhatikan kondisi tubuh.</string>
+    <string name="edukasi_ekstrem_title_1">Apa itu cuaca ekstrem?</string>
+    <string name="edukasi_ekstrem_title_2">Mengapa perlu waspada?</string>
+    <string name="edukasi_ekstrem_title_3">Sikap yang disarankan</string>
+    <string name="edukasi_ekstrem_desc_1">Cuaca ekstrem mencakup kondisi cuaca yang berpotensi berdampak signifikan.</string>
+    <string name="edukasi_ekstrem_desc_2">Dampak cuaca ekstrem dapat berbeda di setiap wilayah.</string>
+    <string name="edukasi_ekstrem_desc_3">Ikuti informasi resmi dari BMKG dan instansi berwenang.</string>
+</resources>

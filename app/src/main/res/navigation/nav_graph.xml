@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/HomeFragment">
+
+    <fragment
+        android:id="@+id/HomeFragment"
+        android:name="studio.bonodigital.siagaai.ui.home.HomeFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_HomeFragment_to_EdukasiFragment"
+            app:destination="@id/EdukasiFragment" />
+        <action
+            android:id="@+id/action_HomeFragment_to_TanyaAiFragment"
+            app:destination="@id/TanyaAiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/EdukasiFragment"
+        android:name="studio.bonodigital.siagaai.ui.edukasi.EdukasiFragment"
+        android:label="@string/edukasi"
+        tools:layout="@layout/fragment_edukasi">
+        <action
+            android:id="@+id/action_EdukasiFragment_to_HomeFragment"
+            app:destination="@id/HomeFragment" />
+        <action
+            android:id="@+id/action_EdukasiFragment_to_TanyaAiFragment"
+            app:destination="@id/TanyaAiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/TanyaAiFragment"
+        android:name="studio.bonodigital.siagaai.ui.tanyaai.TanyaAiFragment"
+        android:label="@string/tanya_ai"
+        tools:layout="@layout/fragment_tanya_ai"/>
+</navigation>
