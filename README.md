@@ -109,7 +109,7 @@ Aplikasi ini **bukan sistem peringatan dini** dan tidak menggantikan peran insta
 ---
 
 ## 📎 Link Pendukung
-- Repository GitHub: *https://github.com/ariefjuharza/SiagaAI*
-- Demo Video: *soon*
+- Repository GitHub: *https://github.com/ariefjuharza/Jagratara*
+- Demo Video: *https://drive.google.com/file/d/1yHtCMiPluzDqaISBMmebcMttfaHcFBWA/view?usp=sharing*
 - Linkedin : *https://www.linkedin.com/in/ariefjuharza/*
 
